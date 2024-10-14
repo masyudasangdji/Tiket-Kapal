@@ -1,0 +1,8 @@
+CRITICAL - 2024-08-31 05:07:03 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\TIKET_KAPAL\TIKET-KAPAL\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\TIKET_KAPAL\TIKET-KAPAL\spark(45): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2024-08-31 05:07:34 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\TIKET_KAPAL\TIKET-KAPAL\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\TIKET_KAPAL\TIKET-KAPAL\spark(45): require('C:\\xampp\\htdocs...')
+#2 {main}
